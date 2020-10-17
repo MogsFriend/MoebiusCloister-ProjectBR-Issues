@@ -10,3 +10,4 @@
 아이템 타입
 아이템 효과 (공격 타입 등)
 ```
+[여기](https://github.com/MogsFriend/MoebiusCloister-ProjectBR-Issues/issues) 에 이슈를 등록해 주시기 바랍니다.
