@@ -20,6 +20,8 @@
 ```
 [여기](https://github.com/MogsFriend/MoebiusCloister-ProjectBR-Issues/issues) 에 이슈를 등록해 주시기 바랍니다.
 
+# 알려진 문제점
+
 ## 게임 플레이 관련
 
 - **`2571148`** 폭약류 관련 갯수 문제
